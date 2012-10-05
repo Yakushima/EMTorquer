@@ -1,1 +1,1 @@
-Now you read.
+A simulation of a 3-coil magnetorquer.
